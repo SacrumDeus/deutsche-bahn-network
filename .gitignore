@@ -1,3 +1,7 @@
 # folders
 __pycache__/*
 spa/node_modules/*
+
+# distinct files
+data/georef-germany-kreis.geojson
+data/stations-dbms-deutschebahn-20.-Juni-2022-20-55-32.dump
