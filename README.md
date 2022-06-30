@@ -53,8 +53,8 @@ The second step involves transporting the data from the Mongo DB to the Neo4j gr
 The last step is data analysis. In this step **knowledge** is extracted from the data. Different graph algorithms are applied. The data analysis consists of a structured report (Jupyter notebook) and a web app (vue.js and D3.js).
 
 The report is available at:
-* HTML file: [01-data-selection](/01-data-selection.html)
-* Jupyter notebook: [01-data-selection](/01-data-selection.ipynb)
+* HTML file: [report.html](/report.html)
+* Jupyter notebook: [report.ipynb](/report.ipynb)
 
 The description of the web application can be found at:
 * Dashboard [spa/README.md](/spa/README.md)
